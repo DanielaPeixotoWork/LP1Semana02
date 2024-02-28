@@ -12,6 +12,9 @@ namespace Cilindro
         Console.Write("Insira a altura (a) do cilindro: ");
         float altura = float.Parse(Console.ReadLine());
 
+        Console.Write("Insira o raio (r) do cilindro: ");
+        float raio = float.Parse(Console.ReadLine());
+
         }
     }
 }
