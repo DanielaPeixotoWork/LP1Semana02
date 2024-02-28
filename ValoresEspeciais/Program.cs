@@ -34,9 +34,16 @@ namespace ValoresEspeciais
 
             Console.WriteLine($"Valor Mínimo de float: {float.MinValue}");
             Console.WriteLine($"Valor Máximo de float: {float.MaxValue}");
+            Console.WriteLine($"Valor de -∞ em float: {float.NegativeInfinity}");
+            Console.WriteLine($"Valor de +∞ em float: {float.PositiveInfinity}");
+            Console.WriteLine($"Valor de NaN em float: {float.NaN}");
 
             Console.WriteLine($"Valor Mínimo de double: {double.MinValue}");
             Console.WriteLine($"Valor Máximo de double: {double.MaxValue}");
+            Console.WriteLine($"Valor de +∞ em double: {double.PositiveInfinity}");
+            Console.WriteLine($"Valor de +∞ em double: {double.PositiveInfinity}");
+            Console.WriteLine($"Valor de NaN em double: {double.NaN}");
+            Console.WriteLine($"Valor de NaN em double: {double.NaN}");
 
             Console.WriteLine($"Valor Mínimo de decimal: {decimal.MinValue}");
             Console.WriteLine($"Valor Máximo de decimal: {decimal.MaxValue}");
