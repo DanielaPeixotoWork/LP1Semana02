@@ -53,6 +53,22 @@ namespace ValoresEspeciais
 
             Console.WriteLine($"Valor Mínimo de bool: {bool.FalseString}");
             Console.WriteLine($"Valor Máximo de bool: {bool.TrueString}");
+
+            int i = short.MaxValue; //32767
+            Console.WriteLine(( short) ( i + 1));
+
+            float x1 = 2 * float.MaxValue;
+            Console.WriteLine($"float overflow:{x1}");
+
+            float x2 = float.MaxValue + 1;
+            Console.WriteLine($"float overflow:{x2}");
+
+            float y1, y2;
+            y1 = y2 = 10000.0f;
+            Console.WriteLine(y1 == y2 + 0.0001f);
+
+            Console.ReadKey();
+
         }
     }
 }
