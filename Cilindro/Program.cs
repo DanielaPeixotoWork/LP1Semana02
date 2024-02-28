@@ -15,6 +15,9 @@ namespace Cilindro
         Console.Write("Insira o raio (r) do cilindro: ");
         float raio = float.Parse(Console.ReadLine());
 
+        float volume = MathF.PI * MathF.Pow(raio, 2) * altura;
+        float areaSuperficie = 2 * MathF.PI * raio * (raio + altura);
+
         }
     }
 }
