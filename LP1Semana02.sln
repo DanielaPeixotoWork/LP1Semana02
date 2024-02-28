@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindro", "Cilindro\Cilind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValoresEspeciais", "ValoresEspeciais\ValoresEspeciais.csproj", "{E5D4795C-4316-496A-9484-898879AF6BE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPTZero", "ChatGPTZero\ChatGPTZero.csproj", "{A80632C7-1100-403E-80BE-B6DEE5211845}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E5D4795C-4316-496A-9484-898879AF6BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5D4795C-4316-496A-9484-898879AF6BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5D4795C-4316-496A-9484-898879AF6BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A80632C7-1100-403E-80BE-B6DEE5211845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80632C7-1100-403E-80BE-B6DEE5211845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80632C7-1100-403E-80BE-B6DEE5211845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80632C7-1100-403E-80BE-B6DEE5211845}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
