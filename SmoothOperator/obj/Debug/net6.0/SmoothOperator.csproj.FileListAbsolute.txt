@@ -1,0 +1,15 @@
+C:\Users\Legion\LP1Semana02\SmoothOperator\bin\Debug\net6.0\SmoothOperator.exe
+C:\Users\Legion\LP1Semana02\SmoothOperator\bin\Debug\net6.0\SmoothOperator.deps.json
+C:\Users\Legion\LP1Semana02\SmoothOperator\bin\Debug\net6.0\SmoothOperator.runtimeconfig.json
+C:\Users\Legion\LP1Semana02\SmoothOperator\bin\Debug\net6.0\SmoothOperator.dll
+C:\Users\Legion\LP1Semana02\SmoothOperator\bin\Debug\net6.0\SmoothOperator.pdb
+C:\Users\Legion\LP1Semana02\SmoothOperator\obj\Debug\net6.0\SmoothOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\LP1Semana02\SmoothOperator\obj\Debug\net6.0\SmoothOperator.AssemblyInfoInputs.cache
+C:\Users\Legion\LP1Semana02\SmoothOperator\obj\Debug\net6.0\SmoothOperator.AssemblyInfo.cs
+C:\Users\Legion\LP1Semana02\SmoothOperator\obj\Debug\net6.0\SmoothOperator.csproj.CoreCompileInputs.cache
+C:\Users\Legion\LP1Semana02\SmoothOperator\obj\Debug\net6.0\SmoothOperator.sourcelink.json
+C:\Users\Legion\LP1Semana02\SmoothOperator\obj\Debug\net6.0\SmoothOperator.dll
+C:\Users\Legion\LP1Semana02\SmoothOperator\obj\Debug\net6.0\refint\SmoothOperator.dll
+C:\Users\Legion\LP1Semana02\SmoothOperator\obj\Debug\net6.0\SmoothOperator.pdb
+C:\Users\Legion\LP1Semana02\SmoothOperator\obj\Debug\net6.0\SmoothOperator.genruntimeconfig.cache
+C:\Users\Legion\LP1Semana02\SmoothOperator\obj\Debug\net6.0\ref\SmoothOperator.dll

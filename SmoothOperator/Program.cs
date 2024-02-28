@@ -19,6 +19,10 @@ namespace SmoothOperator
 
             Console.WriteLine($"Resultado de -n:{--n}");
             Console.WriteLine($"Resultado de +n:{++n}");
+            Console.WriteLine($"Resultado de %2: {n / 2}");
+            Console.WriteLine($"Resultado de shift left 3: {n << 3}");
+            Console.WriteLine($"Resultado de xor com 5: {n ^ 5}");
+            Console.WriteLine($"É maior que 10? {n > 10}");
         }
     }
 }

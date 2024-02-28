@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmoothOperator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e709b396d8fc5c6965fd3498cf9a0571d6457670")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmoothOperator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmoothOperator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
