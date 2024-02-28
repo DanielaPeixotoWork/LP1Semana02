@@ -63,7 +63,10 @@ namespace ValoresEspeciais
             float x2 = float.MaxValue + 1;
             Console.WriteLine($"float overflow:{x2}");
 
-
+            float y1, y2;
+            y1 = y2 = 10000.0f;
+            Console.WriteLine(y1 == y2 + 0.0001f);
+            
         }
     }
 }
