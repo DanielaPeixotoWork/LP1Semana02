@@ -18,6 +18,9 @@ namespace Cilindro
         float volume = MathF.PI * MathF.Pow(raio, 2) * altura;
         float areaSuperficie = 2 * MathF.PI * raio * (raio + altura);
 
+         Console.WriteLine($"O volume do cilindro é: {volume}");
+        Console.WriteLine($"A área de superfície do cilindro é: {areaSuperficie}");
+
         }
     }
 }
